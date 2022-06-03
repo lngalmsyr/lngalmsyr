@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lngalmsyr.lngalmsyr)
 # HELLO I AM LANANG ALMASYURI  <a href="https://github.com/lngalmsyr?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-## I AM Data Analyst Enthusiast 🙌
+## I am Data Analyst Enthusiast 🙌
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
