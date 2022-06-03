@@ -30,5 +30,8 @@ Currently focusing on data science learning towards machine learning, artificial
 * [Python](https://www.python.org/) - the amazing tool for Data Science
 * [R Statistics](https://www.r-project.org/) - the amazing tool Data Science (2)
 
-![Lanang Almasyuri Github Stats](https://github-readme-stats.vercel.app/api?username=lngalmsyr&count_private=true&show_icons=true&include_all_commits=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lngalmsyr)](https://github.com/lngalmsyr/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lngalmsyr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lngalmsyr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lngalmsyr&show_icons=true&locale=en&theme=tokyonight" alt="lngalmsyr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lngalmsyr&&theme=tokyonight" alt="lngalmsyr" /></p>
